@@ -17,10 +17,10 @@ A skyscraper blocks the view of skyscrapers behind it, so a smaller skyscraper c
 
 4. execute ./a.out "[write the number in this order: top, bottom, left, right]"
 
-    -exemple: gcc *.c && ./a.out "3 1 2 3 2 2 3 1 2 2 1 3 3 2 2 1"
-        -top number: 3 1 2 3
-        -bottom number: 2 2 3 1
-        -left number: 2 2 1 3
-        -right number 3 2 2 1
+    -exemple: gcc *.c && ./a.out "3 1 2 3 2 2 3 1 2 2 1 3 3 2 2 1"  
+        -top number: 3 1 2 3  
+        -bottom number: 2 2 3 1  
+        -left number: 2 2 1 3  
+        -right number 3 2 2 1  
 
 5. Have fun with this cheat ;-)
